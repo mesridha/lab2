@@ -33,7 +33,7 @@ body {
      z-index: -1;	
 }
 
-p {
+/*p {
     font-variant: small-caps;
 }
 
@@ -43,7 +43,7 @@ p {
 
 #project1 {
     font-variant: small-caps;
-}
+}*/
 
 .project{
      margin-left: 20px;
